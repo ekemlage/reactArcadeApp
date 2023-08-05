@@ -1,0 +1,71 @@
+h1{
+    color:white;
+}
+
+body{
+    background-color:#747972;
+}
+
+p{
+    color:white;
+}
+
+button{
+    background-color: #DDAE98;
+    color: white;
+    font-size: 25px;
+}
+
+table{
+    background-color: lightblue;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+th, td {
+    font-size: 50px;
+    text-align: center;
+}
+
+#navBar{
+    background-color: #3b2f29;
+}
+
+.row2{
+    border-top: 3px solid black;
+    border-bottom: 3px solid black;
+}
+
+.column2{
+    border-left: 3px solid black;
+    border-right: 3px solid black;
+}
+
+.gameBoard{
+    width: 120px;
+    height:120px;
+}
+
+.gameBoard:hover {
+    background-color: royalblue;
+}
+
+.mancalaSpace{
+    border-left: 3px solid black;
+    border-right: 3px solid black;
+    border-top: 3px solid black;
+    border-bottom: 3px solid black;
+    border-radius: 30%;
+    width: 120px;
+    height:120px;
+    background-color: rgb(90, 77, 61);
+    color: white;
+}
+
+.mancalaSpace:hover {
+    background-color: rgb(40, 33, 24);
+}
+
+#mancalaTable{
+    background:none;
+}
